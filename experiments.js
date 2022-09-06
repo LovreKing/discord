@@ -3,7 +3,7 @@
  * @description discord-experiments
  * @author lovre
  * @version 0.1.0
- * @source -
+ * @source https://github.com/LovreKing/discord/blob/main/experiments.js
  */
 
 const settingsStore = BdApi.findModule(m => typeof m?.default?.isDeveloper !== "undefined");
